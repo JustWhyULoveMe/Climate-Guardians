@@ -10,5 +10,8 @@ public class UIManager : MonoBehaviour
     {
         BuyUI.SetActive(true);
     }
-    
+    public void HideUI()
+    {
+        BuyUI.SetActive(false);
+    }
 }
