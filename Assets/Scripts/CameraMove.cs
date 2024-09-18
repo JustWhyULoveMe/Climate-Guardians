@@ -10,11 +10,9 @@ public class CameraMove : MonoBehaviour
 
     private bool drag = false;
 
-    // Public boundaries for camera movement (adjustable in the Unity Inspector)
-    public float minX;
-    public float maxX;
-    public float minY;
-    public float maxY;
+    // References to empty GameObjects placed at the map's edges
+    public Transform topLeftBoundary;
+    public Transform bottomRightBoundary;
 
     private void Start()
     {
@@ -40,6 +38,12 @@ public class CameraMove : MonoBehaviour
         if (drag)
         {
             Vector3 newPosition = Origin - Difference;
+
+            // Get the boundaries from the GameObjects' positions
+            float minX = topLeftBoundary.position.x;
+            float maxX = bottomRightBoundary.position.x;
+            float minY = bottomRightBoundary.position.y;
+            float maxY = topLeftBoundary.position.y;
 
             // Clamp the camera's position to stay within the boundaries
             newPosition.x = Mathf.Clamp(newPosition.x, minX, maxX);
