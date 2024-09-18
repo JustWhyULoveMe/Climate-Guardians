@@ -40,7 +40,7 @@ public class CameraMovement2 : MonoBehaviour
 
     public void ZoomOut()
     {
-        float newSize = cam.orthographicSize + zoomStep;
+        float newSize = cam.orthographicSize - zoomStep;
         cam.orthographicSize = Mathf.Clamp(newSize, minCamSize, maxCamSize);
     }
 
