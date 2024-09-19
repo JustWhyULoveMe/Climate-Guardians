@@ -7,7 +7,7 @@ using TMPro;
 public class GameManager : MonoBehaviour
 {
     public int money;
-    public Text moneyDisplay;
+    public TMP_Text moneyDisplay;
 
     private Building buildingToPlace;
     public GameObject grid;
@@ -48,6 +48,7 @@ public class GameManager : MonoBehaviour
     {
         if (money >= building.cost)
         {
+
             customCursor.gameObject.SetActive(true);
             customCursor.GetComponent<SpriteRenderer>().sprite = building.GetComponent<SpriteRenderer>().sprite;
             Cursor.visible = false;  
@@ -57,4 +58,6 @@ public class GameManager : MonoBehaviour
             grid.SetActive(true);
         }
     }
+
+
 }

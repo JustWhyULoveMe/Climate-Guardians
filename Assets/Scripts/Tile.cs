@@ -20,7 +20,9 @@ public class Tile : MonoBehaviour
         if (isOcupied == true)
         {
             rend.color = redColor;
-        }else
+
+        }
+        else
         {
             rend.color = greenColor;
         }
