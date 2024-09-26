@@ -1,115 +1,58 @@
 # Climate-Guardians
  Climate Guardians video game 
 
-using UnityEngine;
-using TMPro;
-
-public class BuildingPlacement : MonoBehaviour
+private void Update()
 {
-    public int money;
-    public TMP_Text moneyDisplay;
+    moneyDisplay.text = money.ToString();
 
-    private Building buildingToPlace;
-    public GameObject grid;
-
-    public CustomCursor customCursor;
-
-    public Tile[] tiles;
-
-    private void Update()
+    if (Input.GetMouseButtonDown(0) && buildingToPlace != null)
     {
-        moneyDisplay.text = money.ToString();
+        Tile nearestTile = null;
+        float shortestDistance = float.MaxValue;
 
-        if (Input.GetMouseButtonDown(0) && buildingToPlace != null)
+        // Поиск ближайшей клетки
+        foreach (Tile tile in tiles)
         {
-            Tile nearestTile = null;
-            float shortestDistance = float.MaxValue;
-            
-            // Найти ближайшую клетку к позиции курсора
+            float dist = Vector2.Distance(tile.transform.position, Camera.main.ScreenToWorldPoint(Input.mousePosition));
+            if (dist < shortestDistance)
+            {
+                shortestDistance = dist;
+                nearestTile = tile;
+            }
+        }
+
+        if (nearestTile != null && !nearestTile.isOccupied)
+        {
+            // Определяем вторую клетку, которую будет занимать здание
+            Vector2 offset = new Vector2(buildingToPlace.width - 1, 0);  // Смещение для здания 2x1
+            Vector2 secondTilePos = nearestTile.transform.position + (Vector3)offset;
+
+            Tile secondTile = null;
             foreach (Tile tile in tiles)
             {
-                float dist = Vector2.Distance(tile.transform.position, Camera.main.ScreenToWorldPoint(Input.mousePosition));
-                if (dist < shortestDistance)
+                if (Vector2.Distance(tile.transform.position, secondTilePos) < 0.1f)
                 {
-                    shortestDistance = dist;
-                    nearestTile = tile;
+                    secondTile = tile;
+                    break;
                 }
             }
 
-            if (nearestTile != null && CanPlaceBuilding(nearestTile, buildingToPlace.size))
+            // Проверка, что обе клетки не заняты
+            if (secondTile != null && !secondTile.isOccupied)
             {
-                // Установить здание на все клетки, которые оно занимает
-                PlaceBuilding(nearestTile, buildingToPlace);
-                
+                // Размещаем здание
+                Vector2 buildingPosition = (nearestTile.transform.position + secondTile.transform.position) / 2;
+                Instantiate(buildingToPlace, buildingPosition, Quaternion.identity);
+
+                // Отмечаем клетки как занятые
+                nearestTile.isOccupied = true;
+                secondTile.isOccupied = true;
+
                 buildingToPlace = null;
                 grid.SetActive(false);
                 customCursor.gameObject.SetActive(false);
                 Cursor.visible = true;
             }
-        }
-    }
-
-    private bool CanPlaceBuilding(Tile startTile, Vector2Int buildingSize)
-    {
-        // Проверяем, свободны ли все клетки для здания
-        for (int x = 0; x < buildingSize.x; x++)
-        {
-            for (int y = 0; y < buildingSize.y; y++)
-            {
-                Vector3Int tilePosition = new Vector3Int(startTile.gridPosition.x + x, startTile.gridPosition.y + y, 0);
-                Tile tile = GetTileAtPosition(tilePosition);  // Метод, который получает клетку по позиции
-                if (tile == null || tile.isOcupied)
-                {
-                    return false; // Если клетка занята или её нет, здание нельзя разместить
-                }
-            }
-        }
-        return true;
-    }
-
-    private Tile GetTileAtPosition(Vector3Int position)
-    {
-        // Возвращает клетку по её позиции на сетке
-        foreach (Tile tile in tiles)
-        {
-            if (tile.gridPosition == position)
-            {
-                return tile;
-            }
-        }
-        return null;
-    }
-
-    private void PlaceBuilding(Tile startTile, Building building)
-    {
-        // Размещаем здание на все клетки
-        for (int x = 0; x < building.size.x; x++)
-        {
-            for (int y = 0; y < building.size.y; y++)
-            {
-                Vector3Int tilePosition = new Vector3Int(startTile.gridPosition.x + x, startTile.gridPosition.y + y, 0);
-                Tile tile = GetTileAtPosition(tilePosition);
-                if (tile != null)
-                {
-                    tile.isOcupied = true;
-                }
-            }
-        }
-        
-        Instantiate(building, startTile.transform.position, Quaternion.identity);
-    }
-
-    public void BuyBuilding(Building building)
-    {
-        if (money >= building.cost)
-        {
-            customCursor.gameObject.SetActive(true);
-            customCursor.GetComponent<SpriteRenderer>().sprite = building.GetComponent<SpriteRenderer>().sprite;
-            Cursor.visible = false;  
-
-            money -= building.cost;
-            buildingToPlace = building;
-            grid.SetActive(true);
         }
     }
 }
