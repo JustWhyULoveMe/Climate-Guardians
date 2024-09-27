@@ -167,9 +167,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &3716521
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -265,9 +265,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &18721384
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -525,9 +525,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &31467728
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -876,9 +876,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &46143371
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -974,9 +974,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &48329678
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1072,9 +1072,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &60852939
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1170,9 +1170,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &63304044
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1349,9 +1349,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &63569398
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1447,9 +1447,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &67808191
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1596,9 +1596,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &78554265
 GameObject:
   m_ObjectHideFlags: 0
@@ -1643,9 +1643,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &78554268
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1863,9 +1863,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &109772804
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2076,9 +2076,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &119448500
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2174,9 +2174,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &120788300
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2272,9 +2272,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &121427360
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2370,9 +2370,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &123864264
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2468,9 +2468,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &128586892
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2711,9 +2711,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &132354138
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2809,9 +2809,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &136708237
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2907,9 +2907,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &142700537
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3005,9 +3005,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &149406201
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3103,9 +3103,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &151464814
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3201,9 +3201,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &152750945
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3378,9 +3378,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &153723074
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3476,9 +3476,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &165226986
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3574,9 +3574,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &165905616
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3723,9 +3723,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &195645725
 GameObject:
   m_ObjectHideFlags: 0
@@ -3770,9 +3770,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &195645728
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3868,9 +3868,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &205439520
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3966,9 +3966,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &206620950
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4064,9 +4064,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &212803244
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4162,9 +4162,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &219356837
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4260,9 +4260,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &227624228
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4358,9 +4358,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &229054931
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4456,9 +4456,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &232913523
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4554,9 +4554,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &233525378
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4733,9 +4733,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &245901021
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4831,9 +4831,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &246267684
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4929,9 +4929,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &249263250
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5212,9 +5212,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &292207590
 GameObject:
   m_ObjectHideFlags: 0
@@ -5259,9 +5259,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &292207593
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5357,9 +5357,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &293596172
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5455,9 +5455,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &312122453
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5553,9 +5553,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &318711323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5796,9 +5796,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &326228912
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5894,9 +5894,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &329836450
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5992,9 +5992,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &332630783
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6224,9 +6224,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &349215311
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6322,9 +6322,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &358030946
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6420,9 +6420,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &359666524
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6518,9 +6518,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &370353036
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6752,9 +6752,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &384115289
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6850,9 +6850,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &384451965
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6948,9 +6948,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &387267642
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7046,9 +7046,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &392081377
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7144,9 +7144,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &408821862
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7242,9 +7242,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &419835657
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7340,9 +7340,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &421547803
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7438,9 +7438,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &428150632
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7536,9 +7536,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &437703074
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7685,9 +7685,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &457410457
 GameObject:
   m_ObjectHideFlags: 0
@@ -7732,9 +7732,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &457410460
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7830,9 +7830,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &457735684
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7928,9 +7928,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &470573625
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8320,9 +8320,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &477159859
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8418,9 +8418,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &494417121
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8597,9 +8597,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &506971415
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8959,9 +8959,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &552226377
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9057,9 +9057,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &559983125
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9155,9 +9155,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &567722269
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9253,9 +9253,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &578355456
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9351,9 +9351,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &588004794
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9449,9 +9449,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &590412181
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9547,9 +9547,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &590427977
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9645,9 +9645,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &607061763
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9824,9 +9824,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &620071599
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9922,9 +9922,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &626508046
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10121,9 +10121,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &658814384
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10219,9 +10219,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &670547410
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10317,9 +10317,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &674708628
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10415,9 +10415,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &675307531
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10513,9 +10513,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &704492402
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10611,9 +10611,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &705406903
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10854,9 +10854,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &738017486
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11003,9 +11003,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &757881841
 GameObject:
   m_ObjectHideFlags: 0
@@ -11050,9 +11050,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &757881844
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11148,9 +11148,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &765963958
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11246,9 +11246,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &794479501
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11395,9 +11395,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &830909302
 GameObject:
   m_ObjectHideFlags: 0
@@ -11442,9 +11442,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &830909305
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11644,7 +11644,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 1
+  isOccupied: 0
   greenColor: {r: 0, g: 0, b: 0, a: 0}
   redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &846364979
@@ -11742,9 +11742,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &856995453
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11985,9 +11985,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &870701138
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12228,9 +12228,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &905174689
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12326,9 +12326,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &911270804
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12424,9 +12424,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &916466963
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12522,9 +12522,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &922184764
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12620,9 +12620,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &935940865
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12718,9 +12718,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &937703293
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12816,9 +12816,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &943127354
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12914,9 +12914,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &956420909
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13012,9 +13012,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &971308422
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13110,9 +13110,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &971875159
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13208,9 +13208,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &973888554
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13306,9 +13306,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &988237894
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13404,9 +13404,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &993302220
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13502,9 +13502,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &993679805
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13600,9 +13600,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1000353539
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13698,9 +13698,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1000716264
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13796,9 +13796,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1013357594
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13894,9 +13894,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1028915884
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13992,9 +13992,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1035167258
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14090,9 +14090,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1045686239
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14188,9 +14188,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1047673937
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14286,9 +14286,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1054752499
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14384,9 +14384,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1068664527
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14482,9 +14482,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1079444382
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14580,9 +14580,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1084531190
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14678,9 +14678,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1085812238
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14776,9 +14776,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1098615465
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15002,9 +15002,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1122758122
 GameObject:
   m_ObjectHideFlags: 0
@@ -15128,9 +15128,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1123720390
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15277,9 +15277,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1127324255
 GameObject:
   m_ObjectHideFlags: 0
@@ -15324,9 +15324,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1127324258
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15473,9 +15473,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1141929853
 GameObject:
   m_ObjectHideFlags: 0
@@ -15520,9 +15520,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1141929856
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15618,9 +15618,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1144713216
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15716,9 +15716,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1153140722
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15814,9 +15814,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1159877679
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15912,9 +15912,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1178967798
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16010,9 +16010,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1190026935
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16108,9 +16108,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1196600156
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16288,9 +16288,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1203257262
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16386,9 +16386,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1214432481
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16484,9 +16484,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1240361314
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16582,9 +16582,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1242865585
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16680,9 +16680,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1246606747
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16778,9 +16778,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1262104541
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16927,9 +16927,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1273073980
 GameObject:
   m_ObjectHideFlags: 0
@@ -16974,9 +16974,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1273073983
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17072,9 +17072,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1273152946
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17170,9 +17170,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1275008109
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17268,9 +17268,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1276646264
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17366,9 +17366,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1277717763
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17464,9 +17464,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1281518411
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17562,9 +17562,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1330830185
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17660,9 +17660,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1334066277
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17758,9 +17758,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1334480974
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17856,9 +17856,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1338582470
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17954,9 +17954,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1341965400
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18130,9 +18130,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1349731924
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18228,9 +18228,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1366962996
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18377,9 +18377,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1379523842
 GameObject:
   m_ObjectHideFlags: 0
@@ -18424,9 +18424,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1379523845
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18884,9 +18884,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1400643193
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18982,9 +18982,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1400964207
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19080,9 +19080,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1421484278
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19178,9 +19178,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1426829492
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19352,9 +19352,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1439342042
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19450,9 +19450,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1487259873
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19548,9 +19548,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1506182530
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19646,9 +19646,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1523769806
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19744,9 +19744,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1526041852
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19842,9 +19842,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1533767488
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19940,9 +19940,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1538986459
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20183,9 +20183,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1562617676
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20281,9 +20281,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1566655276
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20379,9 +20379,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1571179070
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20477,9 +20477,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1575864222
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20575,9 +20575,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1588744263
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20673,9 +20673,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1597225523
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20771,9 +20771,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1610502082
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20869,9 +20869,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1640750522
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21062,9 +21062,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1655984075
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21160,9 +21160,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1661750474
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21258,9 +21258,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1675856963
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21356,9 +21356,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1676287351
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21454,9 +21454,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1676460275
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21552,9 +21552,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1699901512
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21650,9 +21650,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1700222831
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21748,9 +21748,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1712850605
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21846,9 +21846,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1714659114
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21944,9 +21944,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1721403780
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22175,9 +22175,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1735897891
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22273,9 +22273,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1738188427
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22371,9 +22371,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1743337014
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22564,9 +22564,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1752240044
 GameObject:
   m_ObjectHideFlags: 0
@@ -22611,9 +22611,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1752240047
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22709,9 +22709,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1756845112
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22807,9 +22807,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1764332559
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22905,9 +22905,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1770908125
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23003,9 +23003,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1774305309
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23101,9 +23101,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1785906454
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23199,9 +23199,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1789164212
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23442,9 +23442,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1832058827
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23540,9 +23540,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1837312548
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23638,9 +23638,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1845273321
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23736,9 +23736,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1856136584
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23970,9 +23970,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1863781049
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24068,9 +24068,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1868904727
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24166,9 +24166,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1873033172
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24264,9 +24264,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1885954005
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24577,9 +24577,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1946153158
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24675,9 +24675,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1965283746
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24773,9 +24773,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1982435386
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24871,9 +24871,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1988028316
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25020,9 +25020,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &1997814171
 GameObject:
   m_ObjectHideFlags: 0
@@ -25067,9 +25067,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &1997814174
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25165,9 +25165,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2000340594
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25263,9 +25263,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2001107820
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25361,9 +25361,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2017528178
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25459,9 +25459,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2023204154
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25608,9 +25608,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!1 &2057799914
 GameObject:
   m_ObjectHideFlags: 0
@@ -25655,9 +25655,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2057799917
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25753,9 +25753,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2058831953
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25851,9 +25851,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2059471127
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25949,9 +25949,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2060918348
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26047,9 +26047,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2068684850
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26145,9 +26145,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2074401102
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26243,9 +26243,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2089457758
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26341,9 +26341,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2089787618
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26439,9 +26439,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2112678590
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26537,9 +26537,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2121037861
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26635,9 +26635,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cfc4e5e471ab724396c8c4368ec7a35, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isOcupied: 0
-  greenColor: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 0.34117648}
-  redColor: {r: 1, g: 1, b: 1, a: 0}
+  isOccupied: 0
+  greenColor: {r: 0, g: 0, b: 0, a: 0}
+  redColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &2127293702
 SpriteRenderer:
   m_ObjectHideFlags: 0
