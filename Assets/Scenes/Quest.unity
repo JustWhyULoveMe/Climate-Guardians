@@ -419,7 +419,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 527012211}
+      - m_Target: {fileID: 1687174392}
         m_TargetAssemblyTypeName: ColorChange, Assembly-CSharp
         m_MethodName: 
         m_Mode: 1
@@ -1766,7 +1766,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 527012211}
+      - m_Target: {fileID: 1687174392}
         m_TargetAssemblyTypeName: 
         m_MethodName: 
         m_Mode: 1
@@ -2162,7 +2162,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1687174393}
-  - component: {fileID: 1687174394}
+  - component: {fileID: 1687174395}
   m_Layer: 5
   m_Name: group
   m_TagString: Untagged
@@ -2194,7 +2194,7 @@ RectTransform:
   m_AnchoredPosition: {x: 61, y: -77}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1687174394
+--- !u!114 &1687174395
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2203,18 +2203,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1687174392}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea671b22643ab6a449b01946ed93a5ae, type: 3}
+  m_Script: {fileID: 11500000, guid: e0a57ec92bff7e443a6158ba7cba69dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   button1: {fileID: 2077633975}
   button2: {fileID: 1305963137}
   button3: {fileID: 80410763}
-  panelText: {fileID: 382469594}
-  selectedColor: {r: 0.68235296, g: 0.5647059, b: 0.6313726, a: 1}
-  defaultColor: {r: 0.9803922, g: 0.81568635, b: 0.454902, a: 1}
-  button1Text: Hey
-  button2Text: 'hey 2 '
-  button3Text: Hey 1+2 = 3
+  selectedColor: {r: 0, g: 1, b: 0, a: 1}
+  defaultColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
 --- !u!1 &1714434439
 GameObject:
   m_ObjectHideFlags: 0
@@ -3174,7 +3170,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1300005}
+      - m_Target: {fileID: 1687174392}
         m_TargetAssemblyTypeName: ColorChange, Assembly-CSharp
         m_MethodName: 
         m_Mode: 1
