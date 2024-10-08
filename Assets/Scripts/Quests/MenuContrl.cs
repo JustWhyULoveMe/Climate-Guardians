@@ -6,13 +6,72 @@ using UnityEngine.UI;
 
 public class MenuContrl : MonoBehaviour
 {
-    public GameObject BuyUI;
+
+    public GameObject buildingsPanel;
+    public GameObject questsPanel;
+    public GameObject statsPanel;
+    public GameObject MainMenu;
+
+    // Start method to make sure only the active panel shows up initially
+    void Start()
+    {
+        buildingsPanel.SetActive(false);
+        questsPanel.SetActive(true);
+        statsPanel.SetActive(false);
+    }
+
+    // Method to switch to the Buildings Tab
+    public void OpenBuildingsPanel()
+    {
+        buildingsPanel.SetActive(true);
+        questsPanel.SetActive(false);
+        statsPanel.SetActive(false);
+    }
+
+    // Method to switch to the Quests Tab
+    public void OpenQuestsPanel()
+    {
+        buildingsPanel.SetActive(false);
+        questsPanel.SetActive(true);
+        statsPanel.SetActive(false);
+    }
+
+    // Method to switch to the Stats Tab
+    public void OpenStatsPanel()
+    {
+        buildingsPanel.SetActive(false);
+        questsPanel.SetActive(false);
+        statsPanel.SetActive(true);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*public GameObject BuyUI;
 
     public void ShowUI()
     {
-        BuyUI.SetActive(true);
+        BuyUI.SetActive(false);
     }
-
+*/
 
 
 
