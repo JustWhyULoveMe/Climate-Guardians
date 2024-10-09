@@ -15,13 +15,13 @@ public class MenuContrl : MonoBehaviour
     // Start method to make sure only the active panel shows up initially
     void Start()
     {
-        buildingsPanel.SetActive(false);
+        /*buildingsPanel.SetActive(false);
         questsPanel.SetActive(true);
-        statsPanel.SetActive(false);
+        statsPanel.SetActive(false);*/
     }
 
     // Method to switch to the Buildings Tab
-    public void OpenBuildingsPanel()
+    /*public void OpenBuildingsPanel()
     {
         buildingsPanel.SetActive(true);
         questsPanel.SetActive(false);
@@ -44,7 +44,7 @@ public class MenuContrl : MonoBehaviour
         statsPanel.SetActive(true);
     }
 
-
+*/
 
 
 
