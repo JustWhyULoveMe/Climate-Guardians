@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -106,3 +107,10 @@ public class Quest : MonoBehaviour
 
 
 public class QuestCompletedEvent : UnityEvent<Quest> { }
+
+[CustomEditor(typeof(Quest))]
+
+public class QuestEditor : Editor
+{
+
+}
