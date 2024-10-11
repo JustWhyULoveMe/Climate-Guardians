@@ -16,7 +16,7 @@ MonoBehaviour:
   questName: Buy a Building
   questDescription: Go to manu and but a building
   objectives:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: a6d2c1f02645e18488390e8e7e9a25bd, type: 2}
   rewards:
   - {fileID: 11400000, guid: b8027f08dfe16174181d560783dece27, type: 2}
-  questState: 0
+  questState: 1
