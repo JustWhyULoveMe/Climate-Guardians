@@ -1,10 +1,10 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Tile : MonoBehaviour
 {
-    public bool isOcupied;
+    public bool isOccupied;
 
     public Color greenColor;
     public Color redColor;
@@ -17,7 +17,7 @@ public class Tile : MonoBehaviour
 
     void Update()
     {
-        if (isOcupied == true)
+        if (isOccupied == true)
         {
             rend.color = redColor;
 

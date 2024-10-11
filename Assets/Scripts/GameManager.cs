@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -32,11 +32,11 @@ public class GameManager : MonoBehaviour
                     nearestTile = tile;
                 }
             }
-            if (nearestTile.isOcupied == false )
+            if (nearestTile.isOccupied == false )
             {
                 Instantiate(buildingToPlace, nearestTile.transform.position, Quaternion.identity);
                 buildingToPlace = null;
-                nearestTile.isOcupied = true;
+                nearestTile.isOccupied = true;
                 grid.SetActive(false);
                 customCursor.gameObject.SetActive(false);
                 Cursor.visible = true;
