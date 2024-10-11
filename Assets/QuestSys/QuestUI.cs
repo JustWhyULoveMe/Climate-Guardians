@@ -10,6 +10,11 @@ public class QuestUI : MonoBehaviour
     public Text rewardText;
 
     private Quest currentQuest;
+    
+    private void Update()
+    {
+        /*AcceptQuestButton();*/
+    }
 
     public void DisplayQuest(Quest quest)
     {

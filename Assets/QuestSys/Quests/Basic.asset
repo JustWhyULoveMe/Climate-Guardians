@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d0f94b8262fd004a86c78fda51d167c, type: 3}
   m_Name: Basic
   m_EditorClassIdentifier: 
-  rewardID: 
-  rewardDescription: 
+  rewardID: 0
+  rewardDescription: 10 rep and 100TC
   reputationPoints: 10
   money: 100
   pollutionReduction: 10
