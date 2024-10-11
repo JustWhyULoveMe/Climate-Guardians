@@ -6396,9 +6396,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2077709725}
-        m_TargetAssemblyTypeName: StatsController, Assembly-CSharp
-        m_MethodName: Clean
+      - m_Target: {fileID: 1391169972}
+        m_TargetAssemblyTypeName: CityPollutionManager, Assembly-CSharp
+        m_MethodName: ReducePollution
         m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -9420,9 +9420,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2077709725}
-        m_TargetAssemblyTypeName: StatsController, Assembly-CSharp
-        m_MethodName: Polute
+      - m_Target: {fileID: 1391169972}
+        m_TargetAssemblyTypeName: CityPollutionManager, Assembly-CSharp
+        m_MethodName: IncreasePollution
         m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -11639,9 +11639,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 782860310}
-        m_TargetAssemblyTypeName: StatsController, Assembly-CSharp
-        m_MethodName: Polute
+      - m_Target: {fileID: 1391169972}
+        m_TargetAssemblyTypeName: CityPollutionManager, Assembly-CSharp
+        m_MethodName: ReducePollution
         m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -13900,7 +13900,6 @@ GameObject:
   - component: {fileID: 782860309}
   - component: {fileID: 782860312}
   - component: {fileID: 782860311}
-  - component: {fileID: 782860310}
   m_Layer: 5
   m_Name: Reputation
   m_TagString: Untagged
@@ -13927,50 +13926,6 @@ RectTransform:
   m_AnchoredPosition: {x: -3.3000183, y: -41.400013}
   m_SizeDelta: {x: 1003.6266, y: 58.9766}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &782860310
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 782860308}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ec89eccc69962745afca0896eecae7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  filledBar: {fileID: 782860311}
-  gradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.28953755, b: 0, a: 1}
-    key1: {r: 1, g: 0.9999786, b: 0.023584902, a: 1}
-    key2: {r: 0.40571535, g: 1, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 32768
-    ctime2: 65535
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 3
-    m_NumAlphaKeys: 2
-  minTrash: 1
-  maxTrash: 100
 --- !u!114 &782860311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16073,9 +16028,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 782860310}
-        m_TargetAssemblyTypeName: StatsController, Assembly-CSharp
-        m_MethodName: Clean
+      - m_Target: {fileID: 1391169972}
+        m_TargetAssemblyTypeName: CityPollutionManager, Assembly-CSharp
+        m_MethodName: IncreasePollution
         m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -19426,7 +19381,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1141509312
 Transform:
   m_ObjectHideFlags: 0
@@ -23147,6 +23102,7 @@ GameObject:
   - component: {fileID: 1391169969}
   - component: {fileID: 1391169970}
   - component: {fileID: 1391169971}
+  - component: {fileID: 1391169972}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -23465,6 +23421,82 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0a8c4fb1d719ec46864766bde0951fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1391169972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391169965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0673bbf0092915f44b0fd03f9125ff60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filledBarT: {fileID: 2077709723}
+  filledBarR: {fileID: 782860311}
+  gradientT:
+    serializedVersion: 2
+    key0: {r: 0, g: 0.7149544, b: 1, a: 1}
+    key1: {r: 0.9719626, g: 1, b: 0, a: 1}
+    key2: {r: 0.2735849, g: 0.0906456, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 32768
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  gradientR:
+    serializedVersion: 2
+    key0: {r: 0.09981375, g: 0.8962264, b: 0.004227493, a: 1}
+    key1: {r: 0.9719626, g: 1, b: 0, a: 1}
+    key2: {r: 1, g: 0.31840813, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 32768
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  minTrash: 1
+  maxTrash: 100
+  minRep: 1
+  maxRep: 100
 --- !u!1 &1397803532
 GameObject:
   m_ObjectHideFlags: 0
@@ -32356,7 +32388,6 @@ GameObject:
   - component: {fileID: 2077709722}
   - component: {fileID: 2077709724}
   - component: {fileID: 2077709723}
-  - component: {fileID: 2077709725}
   m_Layer: 5
   m_Name: Polution
   m_TagString: Untagged
@@ -32421,50 +32452,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2077709721}
   m_CullTransparentMesh: 1
---- !u!114 &2077709725
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2077709721}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ec89eccc69962745afca0896eecae7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  filledBar: {fileID: 2077709723}
-  gradient:
-    serializedVersion: 2
-    key0: {r: 0, g: 0.7149544, b: 1, a: 1}
-    key1: {r: 0.9719626, g: 1, b: 0, a: 1}
-    key2: {r: 0.2735849, g: 0.0906456, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 32768
-    ctime2: 65535
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 3
-    m_NumAlphaKeys: 2
-  minTrash: 1
-  maxTrash: 100
 --- !u!1 &2081519148
 GameObject:
   m_ObjectHideFlags: 0
