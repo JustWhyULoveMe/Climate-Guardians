@@ -39,7 +39,7 @@ public class QuestManager : Singleton<QuestManager>
         foreach (Reward reward in quest.rewards)
         {
             // Grant reputation points
-            CityReputationManager.Instance.AddReputationPoints(reward.reputationPoints);
+            CityReputationManager.Instance.IncreaseReputation(reward.reputationPoints);
 
             // Grant money
             CityEconomyManager.Instance.AddMoney(reward.money);

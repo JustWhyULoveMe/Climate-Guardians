@@ -1171,7 +1171,6 @@ GameObject:
   - component: {fileID: 48672414}
   - component: {fileID: 48672413}
   - component: {fileID: 48672412}
-  - component: {fileID: 48672411}
   m_Layer: 5
   m_Name: Menu canvas
   m_TagString: Untagged
@@ -1179,22 +1178,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &48672411
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 48672410}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0a57ec92bff7e443a6158ba7cba69dd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  buildingsPanel: {fileID: 0}
-  questsPanel: {fileID: 0}
-  statsPanel: {fileID: 0}
-  MainMenu: {fileID: 0}
 --- !u!114 &48672412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4927,7 +4910,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 48672411}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MenuContrl, Assembly-CSharp
         m_MethodName: OpenQuestsPanel
         m_Mode: 1
@@ -11569,7 +11552,7 @@ GameObject:
   - component: {fileID: 592070875}
   - component: {fileID: 592070874}
   m_Layer: 5
-  m_Name: Clean (1)
+  m_Name: Add
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11639,9 +11622,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1391169972}
-        m_TargetAssemblyTypeName: CityPollutionManager, Assembly-CSharp
-        m_MethodName: ReducePollution
+      - m_Target: {fileID: 1391169971}
+        m_TargetAssemblyTypeName: CityReputationManager, Assembly-CSharp
+        m_MethodName: IncreaseReputation
         m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -13574,7 +13557,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 48672411}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MenuContrl, Assembly-CSharp
         m_MethodName: OpenBuildingsPanel
         m_Mode: 1
@@ -15958,7 +15941,7 @@ GameObject:
   - component: {fileID: 933157479}
   - component: {fileID: 933157478}
   m_Layer: 5
-  m_Name: Polute (1)
+  m_Name: Reduce
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16028,9 +16011,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1391169972}
-        m_TargetAssemblyTypeName: CityPollutionManager, Assembly-CSharp
-        m_MethodName: IncreasePollution
+      - m_Target: {fileID: 1391169971}
+        m_TargetAssemblyTypeName: CityReputationManager, Assembly-CSharp
+        m_MethodName: ReduceReputation
         m_Mode: 4
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -23421,6 +23404,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0a8c4fb1d719ec46864766bde0951fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gradientR:
+    serializedVersion: 2
+    key0: {r: 1, g: 0.1745283, b: 0.1745283, a: 1}
+    key1: {r: 0.9684605, g: 1, b: 0.2971698, a: 1}
+    key2: {r: 0, g: 1, b: 0.12793541, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 32768
+    ctime2: 65535
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 3
+    m_NumAlphaKeys: 2
+  minRep: 1
+  maxRep: 100
+  filledBarR: {fileID: 782860311}
 --- !u!114 &1391169972
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23434,7 +23449,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   filledBarT: {fileID: 2077709723}
-  filledBarR: {fileID: 782860311}
   gradientT:
     serializedVersion: 2
     key0: {r: 0, g: 0.7149544, b: 1, a: 1}
@@ -23464,39 +23478,8 @@ MonoBehaviour:
     m_Mode: 0
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
-  gradientR:
-    serializedVersion: 2
-    key0: {r: 0.09981375, g: 0.8962264, b: 0.004227493, a: 1}
-    key1: {r: 0.9719626, g: 1, b: 0, a: 1}
-    key2: {r: 1, g: 0.31840813, b: 0, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 0
-    ctime1: 32768
-    ctime2: 65535
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 0
-    m_NumColorKeys: 3
-    m_NumAlphaKeys: 2
   minTrash: 1
   maxTrash: 100
-  minRep: 1
-  maxRep: 100
 --- !u!1 &1397803532
 GameObject:
   m_ObjectHideFlags: 0
@@ -29916,7 +29899,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 48672411}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MenuContrl, Assembly-CSharp
         m_MethodName: OpenStatsPanel
         m_Mode: 1

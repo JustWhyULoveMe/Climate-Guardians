@@ -44,7 +44,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void BuyBuilding(Building building)
+    /*public void BuyBuilding(Building building)
     {
         if (money >= building.cost)
         {
@@ -57,7 +57,7 @@ public class GameManager : MonoBehaviour
             buildingToPlace = building;
             grid.SetActive(true);
         }
-    }
+    }*/
 
 
 }

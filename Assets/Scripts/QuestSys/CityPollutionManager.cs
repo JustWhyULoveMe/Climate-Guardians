@@ -5,17 +5,17 @@ using UnityEngine.UI;
 public class CityPollutionManager : Singleton<CityPollutionManager>
 {
     public Image filledBarT;
-    public Image filledBarR;
+    
 
     public Gradient gradientT;
-    public Gradient gradientR;
+    
 
     public float minTrash, maxTrash;
-    public float minRep, maxRep;
+    
 
 
     private float currentTrash;
-    private float currentRep;
+    
 
     private void Start()
     {
@@ -23,7 +23,7 @@ public class CityPollutionManager : Singleton<CityPollutionManager>
         currentTrash = maxTrash / 10;
 
         UpdateTUI();
-        UpdateRUI();
+        
     }
 
 
@@ -61,28 +61,7 @@ public class CityPollutionManager : Singleton<CityPollutionManager>
 
 
 
-    public void ReduceReputation(float reduction)
-    {
-        currentRep = Mathf.Clamp(currentRep - reduction, minRep, maxRep);
-        UpdateRUI();
-        // Update city pollution level, etc.
-    }
-    public void IncreaseReputation(float reduction)
-    {
-        currentRep = Mathf.Clamp(currentRep + reduction, minRep, maxRep);
-        UpdateRUI();
-    }
-
-
-
-
-
-    void UpdateRUI()
-    {
-        filledBarR.fillAmount = (float)currentRep / maxRep;
-
-        filledBarR.color = gradientR.Evaluate(filledBarR.fillAmount);
-    }
+    
 }
 
 
