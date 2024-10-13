@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -12,7 +12,7 @@ public class BuildingGoal : Quest.QuestGoal
         return $"Build a {Building}";
     }
 
-    /*public override void Initialize()
+    *//*public override void Initialize()
     {
         base.Initialize();
         EventManager.Instance.AddListener<BuildingGameEvent>(OnBuilding);
@@ -27,7 +27,7 @@ public class BuildingGoal : Quest.QuestGoal
             Evaluate();
         }
     }
-    */
+    *//*
 
 
 
@@ -37,3 +37,4 @@ public class BuildingGoal : Quest.QuestGoal
 
 
 }
+*/
