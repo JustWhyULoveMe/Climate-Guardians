@@ -1,20 +1,19 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Building : MonoBehaviour
 {
-    public int sizeX = 1;
-    public int sizeY = 1;
-    public GameObject prefab;
-
-    private Grid grid;
+    public int sizeX = 1; // Width of the building in grid cells
+    public int sizeY = 1; // Height of the building in grid cells
 
     void Start()
     {
-        grid = GameObject.FindObjectOfType<Grid>();
+        // You can add any initialization logic here if needed
     }
+}
 
-    public void PlaceBuilding(int x, int y)
+
+
+/*public void PlaceBuilding(int x, int y)
     {
         if (CanPlaceBuilding(x, y))
         {
@@ -22,12 +21,8 @@ public class Building : MonoBehaviour
             {
                 for (int j = 0; j < sizeY; j++)
                 {
-                    Cell cell = grid.GetCell(x + i, y + j);
-                    if (cell != null)
-                    {
-                        GameObject buildingObject = Instantiate(prefab, new Vector3((x + i) * cell.size, (y + j) * cell.size, 0), Quaternion.identity);
-                        buildingObject.transform.parent = transform;
-                    }
+                    GameObject buildingObject = Instantiate(prefab, new Vector3((x + i) * grid.cellSize, (y + j) * grid.cellSize, 0), Quaternion.identity);
+                    buildingObject.transform.parent = transform;
                 }
             }
         }
@@ -40,31 +35,11 @@ public class Building : MonoBehaviour
             for (int j = 0; j < sizeY; j++)
             {
                 Cell cell = grid.GetCell(x + i, y + j);
-                if (cell == null || cell.prefab != null)
+                if (cell == null || cell.prefab != null) // Check if the cell is occupied
                 {
                     return false;
                 }
             }
         }
         return true;
-    }
-
-    public void DestroyBuilding(int x, int y)
-    {
-        for (int i = 0; i < sizeX; i++)
-        {
-            for (int j = 0; j < sizeY; j++)
-            {
-                Cell cell = grid.GetCell(x + i, y + j);
-                if (cell != null)
-                {
-                    GameObject buildingObject = cell.prefab;
-                    if (buildingObject != null)
-                    {
-                        Destroy(buildingObject);
-                    }
-                }
-            }
-        }
-    }
-}
+    }*/
